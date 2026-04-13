@@ -110,7 +110,7 @@ Dashboard screenshots
 
 🔗 Live Dashboard
 
-Tableau Public: ([Add link](https://public.tableau.com/views/GLOBALEARTHQUAKEDASHBOARD1905-2025/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+Tableau Public: ([Click here for link to the analysed dashboard](https://public.tableau.com/views/GLOBALEARTHQUAKEDASHBOARD1905-2025/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 Author
 
